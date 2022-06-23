@@ -8,7 +8,7 @@ local entity = loadstring(game:HttpGet("https://raw.githubusercontent.com/7Grand
 local whiteliststhing = {}
 
 pcall(function()
-    whiteliststhing = loadstring(game:HttpGet("https://raw.githubusercontent.com/8pmX8/rektsky4roblox/main/whitelist.lua"))()
+    whiteliststhing = loadstring(game:HttpGet("https://raw.githubusercontent.com/XxjackXx16/rektsky4roblox/main/whitelist.lua"))()
 end)
 
 do
